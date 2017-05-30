@@ -1,0 +1,368 @@
+1495715539359	geckodriver	INFO	Listening on 127.0.0.1:8151
+1495715541451	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495715542566	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495715548780	Marionette	INFO	Listening on port 8157
+[GPU 5332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14012] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495715548857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenui&json=1&p=3&sid=1455_21099_21672_20928&req=2&csor=7&pwd=selenu&cb=jQuery110209317258420975801_1495715550164&_=1495715550172, line 1: TypeError: jQuery110209317258420975801_1495715550164 is not a function
+[GPU 5332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10660] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495715560438	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495715574920	geckodriver	INFO	Listening on 127.0.0.1:8221
+1495715577016	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495715577630	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 9876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7028] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495715580476	Marionette	INFO	Listening on port 8227
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495715580758	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 9876] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9284] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495715622606	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495715624179	geckodriver	INFO	Listening on 127.0.0.1:8290
+1495715626253	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495715626546	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 10536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11180] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11180] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495715629436	Marionette	INFO	Listening on port 8296
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495715629882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenui&json=1&p=3&sid=1429_21103_17001_20930&req=2&csor=7&pwd=selenu&cb=jQuery1102040373043010642784_1495715630763&_=1495715630771, line 1: TypeError: jQuery1102040373043010642784_1495715630763 is not a function
+[GPU 10536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13040] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495715688435	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495715689496	geckodriver	INFO	Listening on 127.0.0.1:8355
+1495715691569	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495715691789	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 9052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14760] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495715694866	Marionette	INFO	Listening on port 8361
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495715695260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenu&json=1&p=3&sid=22161_1429_22533_21097_20927&req=2&csor=6&pwd=selen&cb=jQuery110209228208937574148_1495715698029&_=1495715698036, line 1: TypeError: jQuery110209228208937574148_1495715698029 is not a function
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x7E000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+[Child 8628] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x440102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1495716117522	Marionette	INFO	Ceased listening
+1495716118460	geckodriver	INFO	Listening on 127.0.0.1:8635
+1495716120478	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495716121237	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 15192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716124106	Marionette	INFO	Listening on port 8641
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495716124610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenui&json=1&p=3&sid=1451_21102_22746_22072&req=2&csor=7&pwd=selenu&cb=jQuery110208244023017241403_1495716125390&_=1495716125398, line 1: TypeError: jQuery110208244023017241403_1495716125390 is not a function
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[GPU 15192] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned 1495716428908	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 11536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716431502	Marionette	INFO	Listening on port 8717
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495716431790	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 11536] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716445954	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495716529257	geckodriver	INFO	Listening on 127.0.0.1:8779
+1495716531327	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495716531548	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 11088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8512] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8512] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716534721	Marionette	INFO	Listening on port 8785
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495716534980	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 11088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716544693	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495716614745	geckodriver	INFO	Listening on 127.0.0.1:8900
+1495716616828	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495716617334	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 8932] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716620235	Marionette	INFO	Listening on port 8906
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495716620638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=22604_1437_21114_17001_20927&req=2&csor=4&pwd=sel&cb=jQuery110208044133913119738_1495716621631&_=1495716621636, line 1: TypeError: jQuery110208044133913119738_1495716621631 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=22604_1437_21114_17001_20927&req=2&csor=1&cb=jQuery110208044133913119738_1495716621631&_=1495716621633, line 1: TypeError: jQuery110208044133913119738_1495716621631 is not a function
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[Child 12148] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716765302	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495716890020	geckodriver	INFO	Listening on 127.0.0.1:9311
+1495716892067	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495716892759	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 9984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4580] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716895653	Marionette	INFO	Listening on port 9319
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495716895906	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 9984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9608] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9608] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495716901737	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495717231366	geckodriver	INFO	Listening on 127.0.0.1:9894
+1495717233448	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495717233685	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 1604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5004] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717236538	Marionette	INFO	Listening on port 9902
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495717236835	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 1604] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5808] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717261012	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495717262079	geckodriver	INFO	Listening on 127.0.0.1:10006
+1495717264161	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495717264466	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[Child 4212] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4212] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717267260	Marionette	INFO	Listening on port 10014
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495717267477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenui&json=1&p=3&sid=22164_1441_21116_17001_20928&req=2&csor=7&pwd=selenu&cb=jQuery110204449575945322438_1495717269136&_=1495717269144, line 1: TypeError: jQuery110204449575945322438_1495717269136 is not a function
+[GPU 10080] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 696] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717295186	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495717361443	geckodriver	INFO	Listening on 127.0.0.1:10210
+1495717363501	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495717363797	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 13276] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717366515	Marionette	INFO	Listening on port 10218
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495717366836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenui&json=1&p=3&sid=1463_21125_18560_17001_21670_20929&req=2&csor=7&pwd=selenu&cb=jQuery110202189426291889065_1495717367781&_=1495717367789, line 1: TypeError: jQuery110202189426291889065_1495717367781 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenu&json=1&p=3&sid=1463_21125_18560_17001_21670_20929&req=2&csor=6&pwd=selen&cb=jQuery110202189426291889065_1495717367781&_=1495717367788, line 1: TypeError: jQuery110202189426291889065_1495717367781 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenuim&json=1&p=3&sid=1463_21125_18560_17001_21670_20929&req=2&csor=8&pwd=selenui&cb=jQuery110202189426291889065_1495717367781&_=1495717367790, line 1: TypeError: jQuery110202189426291889065_1495717367781 is not a function
+[GPU 13276] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4640] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717380786	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495717610149	geckodriver	INFO	Listening on 127.0.0.1:10697
+1495717612220	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495717612436	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495717623252	geckodriver	INFO	Listening on 127.0.0.1:10727
+1495717625312	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495717625543	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495717628133	Marionette	INFO	Listening on port 10735
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 9736] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717628517	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2768] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://pdf.js/PdfjsContentUtils.jsm, line 105: TypeError: this._mm.sendSyncMessage(...) is undefined
+[GPU 9736] WARNING: pipe error: 109: file c:/builds/moz2_sla1495717682897	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495717683779	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 5016] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495717688229	Marionette	INFO	Listening on port 10866
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495717689018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1416: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/FileUtils.jsm, line 70: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[GPU 5016] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495719816851	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495719817458	geckodriver	INFO	Listening on 127.0.0.1:14305
+1495719819513	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495719820123	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 12764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495719823300	Marionette	INFO	Listening on port 14313
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495719823696	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 12764] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495719835050	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495719841835	geckodriver	INFO	Listening on 127.0.0.1:14390
+1495719843910	geckodriver::marionette	INFO	Starting browser 1495719843969	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Fire1495719844562	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495719847910	Marionette	INFO	Listening on port 14403
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495719848753	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10332] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtypJavaScript error: resource://app/modules/WindowsJumpLists.jsm, line 403: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[GPU 13384] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495720019397	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ld/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495719853620	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495719856042	geckodriver::marionette	ERROR	Failed to kill browser process
+1495719973167	geckodriver	INFO	Listening on 127.0.0.1:14760
+1495719975211	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495719975851	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495719978542	Marionette	INFO	Listening on port 14768
+[GPU 2552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6152] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6152] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495719978833	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 2552] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13068] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13068] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495720019391	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495720020827	geckodriver	INFO	Listening on 127.0.0.1:14961
+1495720022903	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495720023542	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 7716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3936] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495720026384	Marionette	INFO	Listening on port 14969
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495720026617	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 7716] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495720084112	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1495720108919	geckodriver	INFO	Listening on 127.0.0.1:1257
+1495720110976	geckodriver::marionette	INFO	Starting browser \\?\C:\Install\Tools\Firefox Developer Edition\firefox.exe with args ["-marionette"]
+1495720111444	addons.manager	ERROR	startup failed: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIFile.create]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://gre/modules/FileUtils.jsm :: FileUtils_getDir :: line 70"  data: no] Stack trace: FileUtils_getDir()@resource://gre/modules/FileUtils.jsm:70 < FileUtils_getFile()@resource://gre/modules/FileUtils.jsm:42 < validateBlocklist()@resource://gre/modules/AddonManager.jsm:674 < startup()@resource://gre/modules/AddonManager.jsm:837 < startup()@resource://gre/modules/AddonManager.jsm:3145 < observe()@resource://gre/components/addonManager.js:65
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1657: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 1761: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+[GPU 10748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10320] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10320] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495720115294	Marionette	INFO	Listening on port 1265
+JavaScript error: resource://gre/modules/AddonManager.jsm, line 2572: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1495720116208	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 10748] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13008] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13008] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-aurora-w64-ntly-000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1495720170758	Marionette	INFO	Ceased listening
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
