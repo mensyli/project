@@ -10,7 +10,7 @@ import re
 class MzituPipeline(object):
     def process_item(self, item, spider):
         basedir = 'F:/Images/temp/mzitu/'
-        filename = re.findall(r'\w+.jpg$',item['image_url'])[0]
+        filename = re.findall(r'(\w+.(jpg|jpeg|png|bmp))$',item['image_url'])[0][0]
         if not os.path.exists(basedir + item['name']):
             os.makedirs(basedir + item['name'])
         with open(basedir + item['name'] + '/' + filename, 'wb') as f:

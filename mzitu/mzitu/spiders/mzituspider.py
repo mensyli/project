@@ -31,6 +31,7 @@ class MzituspiderSpider(scrapy.Spider):
     def get_image_url(self,response):
         item = MzituItem()
         item['name'] = response.meta['name']
-
-        item['image_url'] = response.xpath('//div[@class="main-image"]/p/a/img/@src').extract()[0]
-        yield item
+        image_urls = response.xpath('//div[@class="main-image"]/p/a/img/@src').extract()
+        for image_url in image_urls:
+            item['image_url'] = image_url
+            yield item

@@ -12,7 +12,7 @@ class MeizituPipeline(object):
     def process_item(self, item, spider):
 
         basedir = 'F:/Images/temp/meizitu/'
-        filename = re.findall(r'\d+.jpg$',item['img_url'])[0]
+        filename = re.findall(r'(\w+.(jpg|jpeg|png|bmp))$',item['img_url'])[0][0]
         if not os.path.exists(basedir + item['name']):
             os.makedirs(basedir + item['name'])
 
