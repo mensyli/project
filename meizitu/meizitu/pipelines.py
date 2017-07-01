@@ -17,5 +17,5 @@ class MeizituPipeline(object):
             os.makedirs(basedir + item['name'])
 
         with open(basedir + item['name'] + '/' +filename, 'wb') as f:
-        	f.write(requests.get(item['img_url']).content)
+            f.write(requests.get(item['img_url']).content)
         return item
